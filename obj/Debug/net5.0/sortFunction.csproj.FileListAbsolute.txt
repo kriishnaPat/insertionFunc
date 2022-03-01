@@ -1,0 +1,16 @@
+C:\Users\k.patel61\Desktop\sortFunction\bin\Debug\net5.0\sortFunction.exe
+C:\Users\k.patel61\Desktop\sortFunction\bin\Debug\net5.0\sortFunction.deps.json
+C:\Users\k.patel61\Desktop\sortFunction\bin\Debug\net5.0\sortFunction.runtimeconfig.json
+C:\Users\k.patel61\Desktop\sortFunction\bin\Debug\net5.0\sortFunction.runtimeconfig.dev.json
+C:\Users\k.patel61\Desktop\sortFunction\bin\Debug\net5.0\sortFunction.dll
+C:\Users\k.patel61\Desktop\sortFunction\bin\Debug\net5.0\ref\sortFunction.dll
+C:\Users\k.patel61\Desktop\sortFunction\bin\Debug\net5.0\sortFunction.pdb
+C:\Users\k.patel61\Desktop\sortFunction\obj\Debug\net5.0\sortFunction.csproj.AssemblyReference.cache
+C:\Users\k.patel61\Desktop\sortFunction\obj\Debug\net5.0\sortFunction.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\k.patel61\Desktop\sortFunction\obj\Debug\net5.0\sortFunction.AssemblyInfoInputs.cache
+C:\Users\k.patel61\Desktop\sortFunction\obj\Debug\net5.0\sortFunction.AssemblyInfo.cs
+C:\Users\k.patel61\Desktop\sortFunction\obj\Debug\net5.0\sortFunction.csproj.CoreCompileInputs.cache
+C:\Users\k.patel61\Desktop\sortFunction\obj\Debug\net5.0\sortFunction.dll
+C:\Users\k.patel61\Desktop\sortFunction\obj\Debug\net5.0\ref\sortFunction.dll
+C:\Users\k.patel61\Desktop\sortFunction\obj\Debug\net5.0\sortFunction.pdb
+C:\Users\k.patel61\Desktop\sortFunction\obj\Debug\net5.0\sortFunction.genruntimeconfig.cache
